@@ -7,7 +7,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 
 	
-	//Add Comment
+	//Add Comment Rheno
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
