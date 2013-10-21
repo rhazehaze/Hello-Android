@@ -7,7 +7,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 
 	
-	//Tet
+	//Tet 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
